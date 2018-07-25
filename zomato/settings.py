@@ -68,7 +68,7 @@ WSGI_APPLICATION = 'zomato.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
-if DEBUF:
+if DEBUG:
 
     DATABASES = {
         'default': {
