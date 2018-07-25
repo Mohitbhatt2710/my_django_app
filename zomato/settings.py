@@ -123,5 +123,5 @@ LOGIN_URL = '/login/'
 STATIC_ROOT = 'staticfiles/'
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR,'static/')
+    os.path.join(BASE_DIR,'static/'),
 )
