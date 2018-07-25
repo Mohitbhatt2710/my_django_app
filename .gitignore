@@ -1,0 +1,7 @@
+env/
+*.pyc
+*.swp
+.DS_Store
+.env
+
+staticfiles/
